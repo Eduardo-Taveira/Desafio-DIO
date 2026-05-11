@@ -24,7 +24,7 @@ Componentes Modelados:
 
 Diagrama da Arquitetura
 Abaixo está a representação visual da infraestrutura projetada:
-
+https://drive.google.com/file/d/17Fj3pi54sSdDKGo3IHWAluF5Gna60D1k/view?usp=sharing
 
 
 ---
